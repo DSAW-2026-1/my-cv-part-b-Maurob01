@@ -2,3 +2,5 @@
 ## Ready
 My css and html are uploaded
 https://dsaw-2026-1.github.io/my-cv-part-b-Maurob01/
+<img width="1919" height="1028" alt="finished css dinner" src="https://github.com/user-attachments/assets/0566663d-bd0b-4e6e-87b8-5c0c69503fa4" />
+
